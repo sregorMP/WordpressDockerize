@@ -1,4 +1,11 @@
-# WordpressDockerize
+# WORDPRESSDOCKERIZE
+
+### Clone repository
+``` git clone https://github.com/sregorMP/WordpressDockerize.git ```
+
+### Install docker
+``` docker-compose up -d ```
+
 ## INSTALL PLUGINS
 
 Astra Widgets
