@@ -1,12 +1,15 @@
 # WORDPRESSDOCKERIZE
 
+## PREREQUISITES
+INSTALL DOCKER 
+
 ### Clone repository
 ``` git clone https://github.com/sregorMP/WordpressDockerize.git ```
 
-### Install docker
+### Up services 
 ``` docker-compose up -d ```
 
-## INSTALL PLUGINS
+### Install plugins
 
 Astra Widgets
 The Fastest Way to Add More Widgets into Your WordPress Website.
